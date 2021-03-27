@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="name">Welcome to Currency Converter</string>
+    <string name="currency">Enter USD to convert</string>
+    <string name="usd">US Dollars to convert</string>
+    <string name="enter_amount_in_usd">Enter amount in USD</string>
+    <string name="currency1">Select currency to convert</string>
+    <string name="btncalculate">Convert</string>
+    <string name="radio1">euros</string>
+    <string name="radio2">Mexican pesos</string>
+    <string name="radio3">Canadian Dollars</string>
+</resources>
